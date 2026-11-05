@@ -7,10 +7,6 @@
   <a href="mailto:albertolucas2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <hr>
-<p>
-  AI researcher and engineer working at the intersection of applied research and real-world AI systems. My work centers on <b>NLP and large language models</b>, from fine-tuning and adapting models to building <b>LLM agents, multi-agent systems and RAG</b>, and extends to <b>computer vision</b>, mostly through research projects with industry partners in energy, healthcare and recycling.
-</p>
-<hr>
 <h3>⚙️ <code>agent.yaml</code></h3>
  
 ```yaml
