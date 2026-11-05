@@ -1,19 +1,17 @@
 <!-- Header -->
-<h1 align="center">Alberto Lucas Teixeira</h1>
-<p align="center"><b>AI Researcher &amp; Engineer</b></p>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=4FD1C5&center=true&vCenter=true&width=600&lines=LLM+agents+%26+multi-agent+systems;NLP+%26+RAG+for+grounded+and+trustworthy+answers;AI+on+smart+glasses+%26+edge+devices;Computer+vision+for+real-world+data" alt="Typing SVG" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/232210ca-bbb0-4b18-b6b5-8baa63347605" alt="Alberto Lucas Teixeira, AI Researcher & Engineer" width="100%" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alberto-lucas-teixeira-682600245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:albertolucas2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<hr>
 <p>
   AI researcher and engineer working at the intersection of applied research and real-world AI systems. My work centers on <b>NLP and large language models</b>, from fine-tuning and adapting models to building <b>LLM agents, multi-agent systems and RAG</b>, and extends to <b>computer vision</b>, mostly through research projects with industry partners in energy, healthcare and recycling.
 </p>
-<h3>🧭 <code>agent.yaml</code></h3>
+<hr>
+<h3>⚙️ <code>agent.yaml</code></h3>
  
 ```yaml
 name: Alberto Lucas Teixeira
@@ -82,9 +80,10 @@ speaks: [Portuguese, English]
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+ 
  
 <br>
 <p align="center">
   <i>Working on agents, retrieval or wearable AI? Let's connect.</i>
 </p>
+ 
